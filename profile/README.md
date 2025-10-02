@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="aspidaLogoTransparent.png" alt="Aspida Security Logo" width="200"/>
+</p>
+
 # 🛡️ Aspida Security
 
 **Strength. Clarity. Protection.**
