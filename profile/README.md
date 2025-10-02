@@ -2,9 +2,9 @@
   <img src="aspidaLogoTransparent.png" alt="Aspida Security Logo" width="200"/>
 </p>
 
-# 🛡️ Aspida Security
+<h1 align="center">🛡️ Aspida Security</h1>
 
-**Strength. Clarity. Protection.**
+<p align="center"><b>Strength. Clarity. Protection.</b></p>
 
 Aspida Security is a cybersecurity startup dedicated to building tools that empower **SOC Analysts, MSSPs, and Security Engineers** to defend against evolving threats.  
 Our mission is simple: deliver **clarity in vulnerability management** through modern, accessible, and efficient security platforms.
