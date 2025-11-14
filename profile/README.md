@@ -13,9 +13,9 @@ Our mission is simple: deliver **clarity in vulnerability management** through m
 
 ## 🚀 Flagship Product
 
-### [Vulcan‑Scan™](https://github.com/aspida-security/vulcan-scan)
+### [Vappler™](https://github.com/aspida-security/vappler)
 
-*A modern vulnerability management platform designed for SOC workflows.*
+*A modern, multi-tenant, attack path analysis & vulnerability management platform designed for SOC workflows.*
 
 - 🔍 **Vulnerability Dashboards** – CVE tracking, severity scoring, and risk trends  
 - 🖥️ **Client Workspace Manager** – Built for MSSPs to manage multiple environments  
