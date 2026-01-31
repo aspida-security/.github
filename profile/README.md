@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="vappler-logo-transparent.png" alt="Vappler Logo" width="200"/>
+  <img src="Screenshot_20260127_164408_Gallery.jpg" alt="Aspida Logo" width="200"/>
 </p>
 
 <h1 align="center">🛡️ Aspida Security</h1>
