@@ -1,4 +1,5 @@
 <p align="center">
+<p align="center">
   <img src="Screenshot_20260127_164408_Gallery.jpg" alt="Aspida Logo"/>
 </p>
 
@@ -45,6 +46,7 @@ We believe in empowering analysts with tools that reduce noise, highlight what m
 ---
 
 ##  Connect With Us
+</p>
 
 -  Website: [aspidasecurity.io](https://aspidasecurity.io)  
 -  LinkedIn: [Ryan Duckworth](https://www.linkedin.com/in/ryan-duckworth833)  
