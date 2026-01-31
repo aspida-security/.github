@@ -51,6 +51,8 @@ A modern, multi-tenant attack path analysis & vulnerability management platform.
 
 <br />
 
+<div align="center">
+  
 Feature
 
 Description
@@ -71,6 +73,8 @@ Complete visibility into hosts, scan history, and active services.
 
 Streamlined PDF/CSV exports for compliance and executive review.
 
+</div>
+
 <div align="center">
 <br />
 <a href="https://aspidasecurity.io">
@@ -80,9 +84,11 @@ Streamlined PDF/CSV exports for compliance and executive review.
 
 <br />
 
+<div align="center">
 ⚡ Technical Stack
 
 We leverage a modern, performance-driven stack to ensure operational excellence.
+</div>
 
 <div align="center">
 
