@@ -13,7 +13,7 @@ Our mission is simple: deliver **clarity in vulnerability management** through m
 ##  Flagship Product
 
 <p align="center">
-  <img src="vappler-logo-transparent.png.jpg" alt="Aspida Logo"/>
+  <img src="vappler-logo-transparent.png" alt="Aspida Logo"/>
 </p>
 
 ### [Vappler™](https://github.com/aspida-security/vappler)
