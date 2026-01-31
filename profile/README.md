@@ -35,7 +35,7 @@ Our mission is simple: deliver <b>clarity in vulnerability management</b> <br />
 <br />
 
 <div align="center">
-🛡️ Flagship Product
+Flagship Product
 </div>
 
 <div align="center">
@@ -55,9 +55,7 @@ A modern, multi-tenant attack path analysis & vulnerability management platform.
 
 <div align="center">
   
-Feature
-
-Description
+Feature Description
 
 📊 Vulnerability Dashboards
 
@@ -87,7 +85,7 @@ Streamlined PDF/CSV exports for compliance and executive review.
 <br />
 
 <div align="center">
-⚡ Technical Stack
+Technical Stack
 
 We leverage a modern, performance-driven stack to ensure operational excellence.
 </div>
@@ -111,7 +109,7 @@ Backend & Security <img src="https://img.shields.io/badge/Python-3776AB?style=fl
 
 <div align="center">
 
-👁️ Our Vision
+Our Vision
 
 To become the trusted provider of vulnerability management solutions that balance operational excellence with technical innovation. We believe in empowering analysts with tools that reduce noise, highlight what matters, and strengthen defenses.
 
