@@ -10,12 +10,12 @@
 <!-- BADGES -->
 
 <a href="https://aspidasecurity.io">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-aspidasecurity.io-00C8B4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+<img src="https://img.shields.io/badge/Website-aspidasecurity.io-00C8B4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
-<a href="https://www.linkedin.com/in/ryan-duckworth833">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/rduckworthfl333">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Status-Active_Development-success?style=flat-square&color=181D1E" alt="Status" />
+<img src="https://img.shields.io/badge/Status-Active_Development-success?style=flat-square&color=181D1E" alt="Status" />
 
 <h1 align="center">Strength. Clarity. Protection.</h1>
 
@@ -87,8 +87,8 @@ We leverage a modern, performance-driven stack to ensure operational excellence.
 <div align="left">
 
 Frontend & UI <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 
