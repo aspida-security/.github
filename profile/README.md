@@ -74,7 +74,7 @@ Streamlined PDF/CSV exports for compliance and executive review.
 <div align="center">
 <br />
 <a href="https://aspidasecurity.io">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JOIN_THE_WAITLIST-BETA_ACCESS_→-181D1E?style=for-the-badge&logoColor=00C8B4&color=00C8B4" alt="Join Waitlist" />
+<img src="https://img.shields.io/badge/JOIN_THE_WAITLIST-BETA_ACCESS_→-181D1E?style=for-the-badge&logoColor=00C8B4&color=00C8B4" alt="Join Waitlist" />
 </a>
 </div>
 
@@ -84,9 +84,9 @@ Streamlined PDF/CSV exports for compliance and executive review.
 
 We leverage a modern, performance-driven stack to ensure operational excellence.
 
-<div align="left">
+<div align="center">
 
-Frontend & UI <img src="https://www.google.com/search?q=https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+Frontend & UI <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat-square&logo=redux&logoColor=white" />
