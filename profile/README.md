@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 
-<img src="./profile/assets/Screenshot_20260127_164408_Gallery.jpg" alt="Aspida Security Logo" width="600" />
+<img src="./assets/Screenshot_20260127_164408_Gallery.jpg" alt="Aspida Security Logo" width="600" />
 
 <br />
 <br />
