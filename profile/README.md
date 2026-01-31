@@ -34,7 +34,9 @@ Our mission is simple: deliver <b>clarity in vulnerability management</b> <br />
 
 <br />
 
+<div align="center">
 🛡️ Flagship Product
+</div>
 
 <div align="center">
 <a href="https://github.com/aspida-security/vappler">
@@ -107,9 +109,13 @@ Backend & Security <img src="https://img.shields.io/badge/Python-3776AB?style=fl
 
 <br />
 
+<div align="center">
+
 👁️ Our Vision
 
 To become the trusted provider of vulnerability management solutions that balance operational excellence with technical innovation. We believe in empowering analysts with tools that reduce noise, highlight what matters, and strengthen defenses.
+
+</div>
 
 <div align="center">
 
