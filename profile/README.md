@@ -35,7 +35,7 @@ Our mission is simple: deliver <b>clarity in vulnerability management</b> <br />
 <br />
 
 <div align="center">
-Flagship Product
+<h1>Flagship Product</h1>
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@ Flagship Product
 <img src="./assets/vappler-logo-transparent.png" alt="Vappler Logo" width="180" />
 </a>
 
-Vappler™
+<h2>Vappler™</h2>
 
 A modern, multi-tenant attack path analysis & vulnerability management platform.
 <br />
@@ -55,7 +55,7 @@ A modern, multi-tenant attack path analysis & vulnerability management platform.
 
 <div align="center">
   
-Feature Description
+<h3>Feature Description</h3>
 
 📊 Vulnerability Dashboards
 
@@ -85,7 +85,7 @@ Streamlined PDF/CSV exports for compliance and executive review.
 <br />
 
 <div align="center">
-Technical Stack
+<h2>Technical Stack</h2>
 
 We leverage a modern, performance-driven stack to ensure operational excellence.
 </div>
@@ -109,7 +109,7 @@ Backend & Security <img src="https://img.shields.io/badge/Python-3776AB?style=fl
 
 <div align="center">
 
-Our Vision
+<h2>Our Vision</h2>
 
 To become the trusted provider of vulnerability management solutions that balance operational excellence with technical innovation. We believe in empowering analysts with tools that reduce noise, highlight what matters, and strengthen defenses.
 
@@ -117,7 +117,7 @@ To become the trusted provider of vulnerability management solutions that balanc
 
 <div align="center">
 
-Connect With Us
+<h2>Connect With Us</h2>
 
 <a href="https://aspidasecurity.io">
 <img src="https://img.shields.io/badge/Website-aspidasecurity.io-181D1E?style=flat-square&logo=google-chrome" />
