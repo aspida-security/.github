@@ -40,7 +40,7 @@ Our mission is simple: deliver <b>clarity in vulnerability management</b> <br />
 
 <div align="center">
 <a href="https://github.com/aspida-security/vappler">
-<img src="./assets/vappler-logo-transparent.png" alt="Vappler Logo" width="180" />
+<img src="./assets/image-13.png" alt="Vappler Logo" width="180" />
 </a>
 
 <h2>Vappler™</h2>
