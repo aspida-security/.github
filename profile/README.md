@@ -9,8 +9,8 @@
 
 <!-- BADGES -->
 
-<a href="https://aspidasecurity.io">
-<img src="https://img.shields.io/badge/Website-aspidasecurity.io-00C8B4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
+<a href="https://vappler.com">
+<img src="https://img.shields.io/badge/Website-vappler.com-00C8B4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" />
 </a>
 <a href="https://www.linkedin.com/in/rduckworthfl333">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -77,7 +77,7 @@ Streamlined PDF/CSV exports for compliance and executive review.
 
 <div align="center">
 <br />
-<a href="https://aspidasecurity.io">
+<a href="https://vappler.com">
 <img src="https://img.shields.io/badge/JOIN_THE_WAITLIST-BETA_ACCESS_→-181D1E?style=for-the-badge&logoColor=00C8B4&color=00C8B4" alt="Join Waitlist" />
 </a>
 </div>
@@ -119,10 +119,10 @@ To become the trusted provider of vulnerability management solutions that balanc
 
 <h2>Connect With Us</h2>
 
-<a href="https://aspidasecurity.io">
-<img src="https://img.shields.io/badge/Website-aspidasecurity.io-181D1E?style=flat-square&logo=google-chrome" />
+<a href="https://vappler.com">
+<img src="https://img.shields.io/badge/Website-vappler.com-181D1E?style=flat-square&logo=google-chrome" />
 </a>
-<a href="mailto:rduckworth@aspidasecurity.io">
+<a href="mailto:rduckworth@vappler.com">
 <img src="https://img.shields.io/badge/Email-Contact_Us-181D1E?style=flat-square&logo=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/ryan-duckworth833">
